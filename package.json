@@ -20,6 +20,9 @@
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-react": "^7.14.5",
-    "frontmatter-markdown-loader": "^3.6.3"
+    "autoprefixer": "^9.8.6",
+    "frontmatter-markdown-loader": "^3.6.3",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.9"
   }
 }

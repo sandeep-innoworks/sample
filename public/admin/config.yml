@@ -19,3 +19,9 @@ collections:
           widget: list
           fields:
             - { label: "Name", name: "name", widget: "string"}
+    - label: "Pharmacy"
+      name: "pharmacy"
+      file: "content/pharmacy.md"
+      fields:
+        - { label: "btnTxt", name: "btnTxt", widget: "string"}
+        

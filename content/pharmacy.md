@@ -1,0 +1,3 @@
+---
+btnTxt: Pharmacy
+---
