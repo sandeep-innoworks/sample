@@ -23,6 +23,7 @@ collections:
     - label: "Pharmacy"
       name: "pharmacy"
       file: "content/pharmacy.md"
+      preview_path: 'pharmacy'
       fields:
         - { label: "btnTxt", name: "btnTxt", widget: "string"}
         
