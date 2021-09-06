@@ -1,0 +1,2 @@
+# sample
+netlify sample site
