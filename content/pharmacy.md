@@ -1,3 +1,3 @@
 ---
-btnTxt: sandeep
+btnTxt: sandee
 ---
