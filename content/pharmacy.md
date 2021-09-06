@@ -1,3 +1,3 @@
 ---
-btnTxt: Pharmacy
+btnTxt: Submit
 ---
